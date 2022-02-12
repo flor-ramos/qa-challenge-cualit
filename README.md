@@ -1,2 +1,2 @@
-# qa-challenge-cuali
-Cuali QA Challenge
+# qa-challenge-cualit
+Cualit QA Challenge
